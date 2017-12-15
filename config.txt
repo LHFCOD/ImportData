@@ -1,0 +1,23 @@
+##数据库服务名
+orclSrv=orcl10g_my
+
+##文件路径
+path  =  C:\Users\NCEPU\Documents\Visual Studio 2015\Projects\ImportData\ImportData\锅炉效率01.csv
+
+##时间位于第2列
+timePos=2
+
+##标题所在行为1
+titleLine=1
+
+##要导入的电子表格的字段标题
+title=锅炉FGD净烟气压力,给水流量3,给水流量1
+
+##要导入的数据库字段名称
+field=一次风机A电流,锅炉效率,供电煤耗
+
+##电子表格开始于第3行进行导入
+start=3
+
+##电子表格于第44643行结束导入
+end=44643
